@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Deadmocracy", "Deadmocracy\Deadmocracy\Deadmocracy.csproj", "{91636F03-3A71-4202-98A2-E9091F01214E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeadmocracyContent", "Deadmocracy\DeadmocracyContent\DeadmocracyContent.contentproj", "{204FB486-73A6-438C-BB74-78D58D9CFAC1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91636F03-3A71-4202-98A2-E9091F01214E}.Debug|x86.ActiveCfg = Debug|x86
+		{91636F03-3A71-4202-98A2-E9091F01214E}.Debug|x86.Build.0 = Debug|x86
+		{91636F03-3A71-4202-98A2-E9091F01214E}.Release|x86.ActiveCfg = Release|x86
+		{91636F03-3A71-4202-98A2-E9091F01214E}.Release|x86.Build.0 = Release|x86
+		{204FB486-73A6-438C-BB74-78D58D9CFAC1}.Debug|x86.ActiveCfg = Debug|x86
+		{204FB486-73A6-438C-BB74-78D58D9CFAC1}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
