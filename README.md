@@ -1,7 +1,17 @@
-# Deadmocracy
+## To compile the project yourself (on windows)
 
-## Prerequisites
+#### 1. Download Visual Studio Community 2013
+http://go.microsoft.com/?linkid=9863608
 
+#### 2. Install XNA 4.0 Refresh
+https://msxna.codeplex.com/releases/view/117230
+
+#### 3. Open the .sln file in the Deadmocracy folder
+
+#### 4. Press F5 to build and run the project
+
+
+## Prerequisites (skip this step if you already installed the XNA 4.0 Refresh package)
 In order for the game to run you need to have the Microsoft XNA Framework Runtime installed on your system.
 You can get it from the link below:
 
